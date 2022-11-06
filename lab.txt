@@ -1,0 +1,14 @@
+Simle liner regration
+Superwised Ml
+Un-Superwised Ml
+Gradient decent
+SGD
+BGD
+MGD
+loss fucnction
+Min type
+max type
+convex optimizeton
+concave opt.
+singel and multiple regration
+
